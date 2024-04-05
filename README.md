@@ -5,9 +5,7 @@
 >[!NOTE]
 >*Objetivo é criar um script em unity (ou alguma outra engine) que gere o triângulo de Sierpinski.*
 
-***Status:*** *Finalizado*
-Resultado:
-![Triangle Sarpinski prinscreen](https://cdn.discordapp.com/attachments/684909359062319196/1142117036525371524/Sarpinski.png) 
+***Status:*** *Finalizado* 
 
 ## Segunda Atividade: **Movimento Uniforme** 
 >[!NOTE]
